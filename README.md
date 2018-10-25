@@ -1,6 +1,8 @@
-# sicp
+# SICP
 
-FIXME: description
+This project includes the lessons and articles from the Structure and Interpretation of Computer Programs. I am not taking any course, but doing my best to get through it on my own for personal education.
+
+Please note I am using Clojure instead of Scheme.
 
 ## Installation
 
